@@ -4,6 +4,8 @@ The data used in this project is a subset contained in the
 household__power_consumption.txt file.  Only data from 2/1/2007 and 2/2/2007 is 
 used in these scripts.   
 
+NOTE: Data file is not included in this repository.
+
 plot1.R - Typing make_plot1() at the console, the code will generate a histogram 
           plot of the global active power from the 
           household_power_consumption.txt file.
