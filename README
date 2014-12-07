@@ -1,0 +1,18 @@
+Course Project 1: 
+
+The data used in this project is a subset contained in the 
+household__power_consumption.txt file.  Only data from 2/1/2007 and 2/2/2007 is 
+used in these scripts.   
+
+plot1.R - Typing make_plot1() at the console, the code will generate a histogram 
+          plot of the global active power from the 
+          household_power_consumption.txt file.
+plot2.R - Typing make_plot2() at the console will generate a time series plot of 
+          the global active power.
+plot3.R - Typing make_plot3() at the console will generate a time series plot of 
+          the three sub metering variables.
+plot4.R - Typing make_plot4() at the console will generate a 2X2 panel of four 
+          plots filling in by columns left to right: (1) a time series of globabl 
+          active power (2) time series of the three sub metering variables (3) 
+          time series of the voltage variable (4) time series of the global 
+          reactive power.
