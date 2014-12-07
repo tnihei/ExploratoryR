@@ -1,0 +1,5 @@
+# Ignore data files (it's a waste of space)
+*.txt
+
+# Ignore emacs backups
+*~
